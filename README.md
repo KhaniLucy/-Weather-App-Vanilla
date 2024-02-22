@@ -1,7 +1,8 @@
 
 # Weather App⛅
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ![image](https://github.com/KhaniLucy/-Weather-App-Vanilla/assets/132388392/2650d784-32b7-433a-bfff-d7c4d286a3c6)
+
 
 
 ## About App
@@ -20,9 +21,11 @@ Hosting a website involves securing server space to store website files, making 
 
 
 ## Demo
-Here is a video of the wesite and the changes I have made
+Here is a video of the wesite.
 
 ![Weather-App-Vanilla](https://astounding-churros-b76236.netlify.app/)
+
+https://github.com/KhaniLucy/-Weather-App-Vanilla/issues/1#issue-2150004172
 
 ## Material
 
