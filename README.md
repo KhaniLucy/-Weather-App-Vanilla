@@ -19,14 +19,6 @@ Hosting a website involves securing server space to store website files, making 
 - Deploy site and link will be provided.
 - It is free and the are plans should you want more.
 
-
-## Demo
-Here is a video of the wesite.
-
-![Weather-App-Vanilla](https://astounding-churros-b76236.netlify.app/)
-
-https://github.com/KhaniLucy/-Weather-App-Vanilla/issues/1#issue-2150004172
-
 ## Material
 
 - HTML
